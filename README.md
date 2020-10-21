@@ -12,12 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">My name is Jordan! 👋 I'm a college sophomore working toward a bachelor's degree in computer science! 🎓</div>  
   
 <!--
@@ -110,6 +104,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
