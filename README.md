@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### <div align="center">My name is Jordan! 👋 I have a bachelor's degree in computer science and am working toward a master's degree in applied analytics! 🎓</div>  
+### <div align="center">My name is Jordan! 👋 I have a master's degree in applied analytics and bachelor's degree in computer science! 🎓</div>  
   
 <!--
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
