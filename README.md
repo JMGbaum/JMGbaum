@@ -87,7 +87,11 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=JMGbaum&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JMGbaum&show_icons=true" align="center" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=JMGbaum" align="center" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JMGbaum&layout=compact" align="center" />
+</div>  
  
 
 <br/>  
